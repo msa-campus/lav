@@ -33,6 +33,12 @@
          "id":22,
          "name":"start-von-map2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
