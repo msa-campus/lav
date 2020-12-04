@@ -77,8 +77,8 @@
                 }, 
                 {
                  "name":"openWebsiteTrigger",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
