@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/map1\/map1.json#start-von-map2"
+                 "value":"\/office-map\/map\/map.json#start-von-map2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -51,6 +51,12 @@
          "id":23,
          "name":"start-von-map1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
