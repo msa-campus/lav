@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map1\/map1.json#start-von-map2"
+                 "value":"\/officemap\/map1\/map1.json#start-von-map2"
                 }],
          "type":"tilelayer",
          "visible":true,
