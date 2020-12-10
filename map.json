@@ -273,19 +273,6 @@
          "tilecount":90,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":1,
-         "firstgid":1986,
-         "image":"C:\/Users\/Yona\/Desktop\/Screenshot 2020-12-10 190431.png",
-         "imageheight":854,
-         "imagewidth":1300,
-         "margin":0,
-         "name":"Screenshot 2020-12-10 190431",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":736,
-         "tilewidth":1193
         }],
  "tilewidth":32,
  "type":"map",
