@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"D:\/Dokumente\/GitHub\/office-map\/campus.json"
+         "target":"campus.json"
         }
     },
  "height":55,
