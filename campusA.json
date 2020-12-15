@@ -485,7 +485,7 @@
         {
          "columns":5,
          "firstgid":1,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/tile_preview.png",
+         "image":"tile_preview.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
@@ -498,7 +498,7 @@
         {
          "columns":16,
          "firstgid":16,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/10.png",
+         "image":"10.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -511,7 +511,7 @@
         {
          "columns":8,
          "firstgid":272,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/16.png",
+         "image":"16.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -524,7 +524,7 @@
         {
          "columns":8,
          "firstgid":1336,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -547,7 +547,7 @@
         {
          "columns":8,
          "firstgid":1400,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/wooden tiles.png",
+         "image":"wooden tiles.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -560,7 +560,7 @@
         {
          "columns":8,
          "firstgid":1464,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/leo campus.png",
+         "image":"leo campus.png",
          "imageheight":768,
          "imagewidth":256,
          "margin":0,
@@ -573,7 +573,7 @@
         {
          "columns":16,
          "firstgid":1656,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -586,7 +586,7 @@
         {
          "columns":15,
          "firstgid":1912,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/text.png",
+         "image":"text.png",
          "imageheight":192,
          "imagewidth":480,
          "margin":0,
@@ -599,7 +599,7 @@
         {
          "columns":19,
          "firstgid":2002,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/x_Serene_Village_32x32.png",
+         "image":"x_Serene_Village_32x32.png",
          "imageheight":1440,
          "imagewidth":608,
          "margin":0,
@@ -612,7 +612,7 @@
         {
          "columns":16,
          "firstgid":2857,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/5.png",
+         "image":"5.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -625,7 +625,7 @@
         {
          "columns":16,
          "firstgid":3113,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/fertig und verkn\u00fcpft\/18.png",
+         "image":"18.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
