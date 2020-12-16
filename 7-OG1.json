@@ -156,7 +156,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/7-EG.json#e-OG1-links"
+                 "value":"\/office-map\/7-EG.json#e-OG-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -174,7 +174,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/7-EG.json#e-OG1-rechts"
+                 "value":"\/office-map\/7-EG.json#e-OG-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
