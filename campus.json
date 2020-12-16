@@ -254,7 +254,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/10-EG.json#e-campus-treppe"
+                 "value":"\/office-map\/10-OG.json#e-campus-treppe"
                 }],
          "type":"tilelayer",
          "visible":true,
