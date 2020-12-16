@@ -306,7 +306,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"3D Pool"
+                 "value":"3DPool"
                 }],
          "type":"tilelayer",
          "visible":true,
