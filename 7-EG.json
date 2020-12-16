@@ -378,7 +378,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -401,7 +401,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/10.png",
+         "image":"10.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -414,7 +414,7 @@
         {
          "columns":9,
          "firstgid":321,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/x_kitchen.png",
+         "image":"x_kitchen.png",
          "imageheight":1184,
          "imagewidth":288,
          "margin":0,
@@ -427,7 +427,7 @@
         {
          "columns":8,
          "firstgid":654,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/leo campus.png",
+         "image":"leo campus.png",
          "imageheight":768,
          "imagewidth":256,
          "margin":0,
@@ -440,7 +440,7 @@
         {
          "columns":8,
          "firstgid":846,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/wooden tiles.png",
+         "image":"wooden tiles.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -453,7 +453,7 @@
         {
          "columns":5,
          "firstgid":910,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/tile_preview.png",
+         "image":"tile_preview.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
@@ -466,7 +466,7 @@
         {
          "columns":24,
          "firstgid":925,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/6a.png",
+         "image":"6a.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -479,7 +479,7 @@
         {
          "columns":8,
          "firstgid":1501,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/16.png",
+         "image":"16.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -492,7 +492,7 @@
         {
          "columns":8,
          "firstgid":2565,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/st\u00fctze und fenster.png",
+         "image":"st\u00fctze und fenster.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -505,7 +505,7 @@
         {
          "columns":16,
          "firstgid":3629,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/1a.png",
+         "image":"1a.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -518,7 +518,7 @@
         {
          "columns":16,
          "firstgid":3885,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/2.png",
+         "image":"2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -531,7 +531,7 @@
         {
          "columns":16,
          "firstgid":4141,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -544,7 +544,7 @@
         {
          "columns":8,
          "firstgid":4397,
-         "image":"C:\/Users\/Yona\/sciebo\/HdM Gruppe\/2_maps bauen\/stuff 1 Kopie.png",
+         "image":"stuff 1 Kopie.png",
          "imageheight":640,
          "imagewidth":256,
          "margin":0,
