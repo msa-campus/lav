@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/10-OG.json#e-EG-bib-links"
+                 "value":"\/office-map\/10-OG.json#e-bib-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,7 +307,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/10-OG.json#e-EG-bib-rechts"
+                 "value":"\/office-map\/10-OG.json#e-bib-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
