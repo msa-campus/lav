@@ -92,7 +92,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/10-EG.json#e-wc-oben"
+                 "value":"\/office-map\/10-EG-Weihnachten.json#e-wc-oben"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -110,7 +110,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/10-EG.json#e-wc-unten"
+                 "value":"\/office-map\/10-EG-Weihnachten.json#e-wc-unten"
                 }],
          "type":"tilelayer",
          "visible":true,
