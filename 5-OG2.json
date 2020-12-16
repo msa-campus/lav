@@ -200,7 +200,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/br\u00fccke.json#e-OG2-rechts"
+                 "value":"\/office-map\/5-OG3.json#e-OG2-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -218,7 +218,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/OG1.json#e-OG2-links"
+                 "value":"\/office-map\/br\u00fccke.json#e-OG2-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
