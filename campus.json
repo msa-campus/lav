@@ -650,7 +650,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/msa-campus\/lav\/master\/Einleitung.png"
+                 "value":"https:\/\/msa-campus.github.io\/lav-data\/"
                 }],
          "type":"tilelayer",
          "visible":true,
