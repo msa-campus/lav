@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/br\u00fccke.json#e-OG3-rechts"
+                 "value":"\/lav\/br\u00fccke.json#e-OG3-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -74,7 +74,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/5-OG2.json#e-OG3-links"
+                 "value":"\/lav\/5-OG2.json#e-OG3-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -92,7 +92,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/5-OG2.json#e-OG3-rechts"
+                 "value":"\/lav\/5-OG2.json#e-OG3-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,

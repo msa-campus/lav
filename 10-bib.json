@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/10-OG.json#e-bib-links"
+                 "value":"\/lav\/10-OG.json#e-bib-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/10-OG.json#e-bib-rechts"
+                 "value":"\/lav\/10-OG.json#e-bib-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/10-EG.json#e-bib"
+                 "value":"\/lav\/10-EG.json#e-bib"
                 }],
          "type":"tilelayer",
          "visible":true,

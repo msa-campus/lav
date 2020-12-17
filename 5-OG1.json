@@ -44,7 +44,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/br\u00fccke.json#e-OG1-rechts"
+                 "value":"\/lav\/br\u00fccke.json#e-OG1-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62,7 +62,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/5-EG.json#e-OG-links"
+                 "value":"\/lav\/5-EG.json#e-OG-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -80,7 +80,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/5-EG.json#e-OG-rechts"
+                 "value":"\/lav\/5-EG.json#e-OG-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/5-OG2.json#e-OG1-links"
+                 "value":"\/lav\/5-OG2.json#e-OG1-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -116,7 +116,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/5-OG2.json#e-OG1-rechts"
+                 "value":"\/lav\/5-OG2.json#e-OG1-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,7 +378,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vdi.fh-muenster.de\/"
+                 "value":"https:\/\/vdi.fh-muenster.de\/portal\/webclient\/index.html#\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -485,7 +485,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/miro.com\/app\/board\/o9J_lbZIefQ=\/"
+                 "value":"https:\/\/miro.com\/app\/live-embed\/o9J_lbZIefQ=\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
