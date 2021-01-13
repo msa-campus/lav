@@ -199,7 +199,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-10-bib-foyer"
+                 "value":"campus.json#e-10-bib-foyer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -217,7 +217,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-10-bib-foyer-hinten"
+                 "value":"campus.json#e-10-bib-foyer-hinten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -235,7 +235,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-10-hoersaal-hinten"
+                 "value":"campus.json#e-10-hoersaal-hinten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-10-hoersaal"
+                 "value":"campus.json#e-10-hoersaal"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -271,7 +271,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG-WC.json#e-unten"
+                 "value":"10-EG-WC.json#e-unten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG-WC.json#e-oben"
+                 "value":"10-EG-WC.json#e-oben"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,7 +307,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-OG.json#e-foyer"
+                 "value":"10-OG.json#e-foyer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -325,7 +325,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-bib.json#e-foyer"
+                 "value":"10-bib.json#e-foyer"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-5-EG-8bar"
+                 "value":"campus.json#e-5-EG-8bar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-5-EG-foyer"
+                 "value":"campus.json#e-5-EG-foyer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-5-EG-rechts"
+                 "value":"campus.json#e-5-EG-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-5-EG-links"
+                 "value":"campus.json#e-5-EG-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -115,7 +115,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-OG1.json#e-EG-links"
+                 "value":"5-OG1.json#e-EG-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,7 +133,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-OG1.json#e-EG-rechts"
+                 "value":"5-OG1.json#e-EG-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG-Weihnachten.json#e-glasfoyer"
+                 "value":"10-EG-Weihnachten.json#e-glasfoyer"
                 }],
          "type":"tilelayer",
          "visible":true,

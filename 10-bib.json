@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-OG.json#e-bib-links"
+                 "value":"10-OG.json#e-bib-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-OG.json#e-bib-rechts"
+                 "value":"10-OG.json#e-bib-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG.json#e-bib"
+                 "value":"10-EG.json#e-bib"
                 }],
          "type":"tilelayer",
          "visible":true,

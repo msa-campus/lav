@@ -44,7 +44,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/br\u00fccke.json#e-OG1-rechts"
+                 "value":"br\u00fccke.json#e-OG1-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62,7 +62,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-EG.json#e-OG-links"
+                 "value":"5-EG.json#e-OG-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -80,7 +80,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-EG.json#e-OG-rechts"
+                 "value":"5-EG.json#e-OG-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-OG2.json#e-OG1-links"
+                 "value":"5-OG2.json#e-OG1-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -116,7 +116,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-OG2.json#e-OG1-rechts"
+                 "value":"5-OG2.json#e-OG1-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,

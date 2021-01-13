@@ -217,7 +217,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-10-treppe-hoch"
+                 "value":"campus.json#e-10-treppe-hoch"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -235,7 +235,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG.json#e-OG-foyer"
+                 "value":"10-EG.json#e-OG-foyer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-bib.json#e-OG-bib-links"
+                 "value":"10-bib.json#e-OG-bib-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -271,7 +271,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-bib.json#e-OG-bib-rechts"
+                 "value":"10-bib.json#e-OG-bib-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
