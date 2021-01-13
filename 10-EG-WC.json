@@ -133,7 +133,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG.json#e-wc-oben"
+                 "value":"10-EG.json#e-wc-oben"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG.json#e-wc-unten"
+                 "value":"10-EG.json#e-wc-unten"
                 }],
          "type":"tilelayer",
          "visible":true,

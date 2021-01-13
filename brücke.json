@@ -181,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/campus.json#e-bruecke-aufzug"
+                 "value":"campus.json#e-bruecke-aufzug"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/7-OG1.json#e-bruecke"
+                 "value":"7-OG1.json#e-bruecke"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -217,7 +217,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-OG1.json#e-bruecke"
+                 "value":"5-OG1.json#e-bruecke"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -235,7 +235,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/7-OG2.json#e-bruecke"
+                 "value":"7-OG2.json#e-bruecke"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-OG2.json#e-bruecke"
+                 "value":"5-OG2.json#e-bruecke"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -271,7 +271,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/7-OG3.json#e-bruecke"
+                 "value":"7-OG3.json#e-bruecke"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-OG3.json#e-bruecke"
+                 "value":"5-OG3.json#e-bruecke"
                 }],
          "type":"tilelayer",
          "visible":true,

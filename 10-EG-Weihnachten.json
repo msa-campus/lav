@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG-WC-Weihnachten.json#e-oben"
+                 "value":"10-EG-WC-Weihnachten.json#e-oben"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -116,7 +116,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/10-EG-WC-Weihnachten.json#e-unten"
+                 "value":"10-EG-WC-Weihnachten.json#e-unten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -134,7 +134,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lav\/5-EG.json#e-weihnachten"
+                 "value":"5-EG.json#e-weihnachten"
                 }],
          "type":"tilelayer",
          "visible":true,
